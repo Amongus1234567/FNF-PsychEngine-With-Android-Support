@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "SONIC_idle"
+		},
+		{
+			"offsets": [
+				16,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "SONIC_left"
+		},
+		{
+			"offsets": [
+				-8,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "SONIC_down"
+		},
+		{
+			"offsets": [
+				10,
+				21
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "SONIC_up"
+		},
+		{
+			"offsets": [
+				-37,
+				-6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "SONIC_right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/thirties-sonic",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "sonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		74,
+		0,
+		255
+	],
+	"camera_position": [
+		100,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
